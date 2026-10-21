@@ -1,0 +1,12 @@
+Jurassic Park V10 curated photos
+
+jurassic-cafe.webp <- IMG_1981.jpeg
+starbucks.webp <- IMG_1982.jpeg
+mcdonalds.webp <- IMG_1983.jpeg
+shake-shack.webp <- IMG_1984.jpeg
+jurassic-ice-cream.webp <- IMG_1985.jpeg
+lookout-restaurant.webp <- IMG_1986.jpeg
+main-gift-shop.webp <- IMG_1987.jpeg
+
+Existing 30 dinosaur photos and all other V9 files retained.
+Photos are user-supplied. Some show real-world venues and are illustrative of the fictional Isla Nublar park.

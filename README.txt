@@ -1,0 +1,2 @@
+Jurassic Park Repair Edition
+Fixes dinosaur profiles being mistaken for attractions and removes embedded screenshot crops from dining/retail cards. Species art is explicitly labeled concept silhouettes, NOT unique photorealistic dinosaur imagery. Dining/shop stock imagery requires internet and does not depict actual park venues. Upload index.html and root files to GitHub root; upload assets/ contents inside assets/; Cloudflare Pages deploys from GitHub.
