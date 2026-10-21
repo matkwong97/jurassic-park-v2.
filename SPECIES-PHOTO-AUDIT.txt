@@ -1,0 +1,53 @@
+JURASSIC PARK V12 — SPECIES PHOTO AUDIT
+
+The former V11 implementation displayed images by numerical index, even when
+the picture showed a different animal. V12 uses an explicit species-to-photo
+mapping and a labeled species dossier illustration where no trustworthy match
+is available. It deliberately does not pass off another dinosaur as that species.
+
+Verified/visually plausible image mapping (species index : asset index):
+0 T. rex : 0
+1 Velociraptor : 1
+2 Dilophosaurus : 2
+3 Spinosaurus : 3
+4 Carnotaurus : 4
+5 Allosaurus : 5
+6 Baryonyx : 6
+7 Atrociraptor : 23 (raptor-style film illustration)
+8 Giganotosaurus : 8
+10 Brachiosaurus : 14
+11 Triceratops : 15
+12 Stegosaurus : 16
+13 Parasaurolophus : 18
+14 Gallimimus : 10
+15 Ankylosaurus : 17
+16 Apatosaurus : 20
+17 Sinoceratops : 25
+18 Nasutoceratops : 24
+20 Pachycephalosaurus : 22
+21 Iguanodon : 21
+22 Therizinosaurus : 26
+23 Dimorphodon : 28
+24 Pteranodon : 27
+25 Mosasaurus : 29
+27 Indominus rex : 12
+28 Indoraptor : 13 (fictional film-style image)
+
+No reliable matching photo in supplied set; illustrated dossier used:
+9 Compsognathus
+19 Stygimoloch
+26 Quetzalcoatlus
+29 Scorpios rex
+
+Some photographs are film-style depictions and not paleontological reconstructions.
+Photos were classified visually, not authenticated to an original film still.
+
+DEPLOY: Upload all extracted root files and the complete assets directory,
+keeping assets/species/d0.webp through d29.webp in the species subfolder.
+Do not upload the ZIP file itself into the repository.
+
+V13 USER-SUPPLIED IMAGES
+Compsognathus -> assets/species/curated-compsognathus.webp
+Stygimoloch -> assets/species/curated-stygimoloch.webp
+Quetzalcoatlus -> assets/species/curated-quetzalcoatlus.webp
+Scorpios rex removed from 30-entry catalogue at user's request; catalogue now has 29 entries.

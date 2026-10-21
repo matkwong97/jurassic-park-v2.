@@ -1,0 +1,11 @@
+Jurassic Park V14 image corrections
+
+Giganotosaurus: new user-supplied forest photograph -> assets/species/curated-giganotosaurus.webp
+Iguanodon: new user-supplied striped herbivore photograph -> assets/species/curated-iguanodon.webp
+Gallimimus: changed from small compy-like image d10.webp to long-legged ornithomimid image d19.webp
+Atrociraptor: removed clearly incorrect horned dinosaur d23.webp; now uses raptor-style d1.webp as an illustrative duplicate, not an authenticated Atrociraptor photograph.
+Compsognathus, Stygimoloch, Quetzalcoatlus: retain user-supplied V13 curated photographs.
+
+All images in species listing and species details use the shared imageFor() function.
+
+Deployment from V11: upload entire assets/species directory from V14, all files directly in assets, and replace root index.html. Preserve nested folder paths.

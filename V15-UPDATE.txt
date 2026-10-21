@@ -1,0 +1,1 @@
+V15: Atrociraptor now uses the user-supplied image at assets/species/curated-atrociraptor.webp. The card and species detail pages share the imageFor() function. All V14 assets retained.
